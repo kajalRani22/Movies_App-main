@@ -1,0 +1,9 @@
+.footer{
+    text-align: center;
+    margin-bottom: 40px;
+    color: #fff;
+    cursor:text;
+}
+h4:hover{
+    color: rgb(229, 249, 5);
+}
